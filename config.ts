@@ -1,11 +1,12 @@
 const config = {
     // REQUIRED
-    appName: 'havamal',
+    appName: 'Havamal',
     // REQUIRED: a short description of your app for SEO tags (can be overwritten)
     appDescription:
         'Mobiele app voor het ontdekken en delen van verhalen en artefacten van de noormannen in de lage landen. Hieraan is er een webplatform gekoppeld om het uploaden van verhalen te vergemakkelijken. ',
     // REQUIRED (no https://, not trialing slash at the end, just the naked domain)
     domainName: 'localhost:3000',
+    locales: ['nl', 'en'],
     aws: {
         // If you use AWS S3/Cloudfront, put values in here
         bucket: 'bucket-name',
@@ -38,4 +39,4 @@ const config = {
     },
 };
 
-export default config;
+export { config };
