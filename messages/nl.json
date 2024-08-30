@@ -1,6 +1,14 @@
 {
     "HomePage": {
         "title": "De Noormannen in de Lage Landen",
-        "about": "Via dit platform kan je uitgebreide teksten met meer bewerkingsmogelijkheden opladen die via de mobiele app te raadplegen zijn. Om andere sagen en artefacten te raadplegen kan je via onderstaande knoppen onze app downloaden."
+        "about": "Jouw bron voor alles over de Vikingen in Belgie en Nederland",
+        "nav": {
+            "home": "Home",
+            "about": "Over Ons",
+            "signIn": "Inloggen"
+        }
+    },
+    "LocaleSwitcher": {
+        "switchLocale": "{locale, select, en {English} nl {Nederlands} other {Unknown}}"
     }
 }

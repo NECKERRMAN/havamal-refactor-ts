@@ -1,6 +1,14 @@
 {
     "HomePage": {
         "title": "Hello world!",
-        "about": "The Norsemen in the low lands"
+        "about": "The Norsemen in the low lands",
+        "nav": {
+            "home": "Home",
+            "about": "About",
+            "signIn": "Sign In"
+        }
+    },
+    "LocaleSwitcher": {
+        "switchLocale": "{locale, select, nl {Nederlands} en {English} other {Unknown}}"
     }
 }
