@@ -20,7 +20,7 @@ This application is created by
 
 Refactor for the Havamal project, upgraded next version, better auth and form validation, Redux toolkit and full TypeScript! Discover the history of the norsemen in the BeNeLux through both old saga's, new stories and found artifacts.
 
-## Checklist - to do
+## Roadmap
 
 ### Phase 01 | Set-up project structure
 
